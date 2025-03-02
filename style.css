@@ -1,0 +1,36 @@
+body{
+    text-align: center;
+}
+.btnSimn{
+    border: 10px solid black;
+    margin: 20px;
+    display: inline-flex;
+    justify-content: center;
+    height: 200px;
+    width: 200px;
+    border-radius: 20%;
+}
+/* .btn-container{
+    display:flex;
+    justify-content: center;
+} */
+ .red{
+    background-color: #d95980;
+ }
+ .green{
+    background-color: #63aac0;
+ }
+ .yellow{
+    background-color: #f99b45;
+ }
+ .purple{
+    background-color: #819ff9;
+ }
+
+ .flash {
+   background-color: white;
+ }
+
+ .userFlash{
+   background-color: saddlebrown;
+ }
